@@ -1,5 +1,6 @@
 # > Resticted
 USER-AGENT,Niconico*
+DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,dmc.nico
