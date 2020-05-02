@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,google.com.hk
+DOMAIN,domains.google
 # > Microsoft
 DOMAIN,spoprod-a.akamaihd.net
 DOMAIN,shellprod.msocdn.com
