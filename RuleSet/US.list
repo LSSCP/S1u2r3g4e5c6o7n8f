@@ -1,0 +1,23 @@
+# > Google Service
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,googleapis.dev
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN,domains.google
