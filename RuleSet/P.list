@@ -1,3 +1,4 @@
 # > skr
-PROCESS-NAME,Spark*
-PROCESS-NAME,NeteaseMusic*
+DOMAIN-KEYWORD,smtp
+DOMAIN-KEYWORD,imap
+DOMAIN-SUFFIX,smartmailcloud.com
