@@ -4,6 +4,19 @@ DOMAIN-SUFFIX,bloomberglp.com
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,bbhub.io
 DOMAIN-SUFFIX,bloom.bg
+# > CNBC
+DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN,bbgvod-azure-us-east1-zenko.global.ssl.fastly.net
+DOMAIN-SUFFIX,nbcuni.com
+DOMAIN,cnbcmbr-vh.akamaihd.net
+DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
+DOMAIN,access-prod.apis.anvato.net
+DOMAIN,tkx-prod-nbcd.anvato.net
+DOMAIN,dcs-live2.apis.anvato.net
+DOMAIN,tvecnbc-x.akamaized.net
+DOMAIN-SUFFIX,uplynk.com
 # > Google Service
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
