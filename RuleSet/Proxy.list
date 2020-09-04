@@ -6,6 +6,9 @@ IP-CIDR,104.27.160.0/20,no-resolve
 # > Captcha
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,hcaptcha.com
+# > CNN
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
 # > DISCORD &twitch
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.media
