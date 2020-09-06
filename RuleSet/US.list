@@ -40,3 +40,5 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN,domains.google
+# > News
+PROCESS-NAME,News
