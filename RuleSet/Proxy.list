@@ -11,7 +11,9 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,ngtv.io
-# > DROP BOX
+# > MEGA NZ & DROP BOX
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.nz
 IP-CIDR,108.160.160.0/20
 # > DISCORD &twitch
 DOMAIN-SUFFIX,discordapp.com
