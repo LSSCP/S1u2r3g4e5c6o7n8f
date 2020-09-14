@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,ngtv.io
+# > DROP BOX
+IP-CIDR,108.160.160.0/20
 # > DISCORD &twitch
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.media
