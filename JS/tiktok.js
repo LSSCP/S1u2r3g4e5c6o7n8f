@@ -2,6 +2,7 @@
 //https?:\/\/.+\.(tiktokv|byteoversea|ipstatp|tiktokcdn|ibytedtos|sgsnssdk)\.com\/.+ url script-request-header https://raw.githubusercontent.com/LSSCP/S1u2r3g4e5c6o7n8f/master/JS/tiktok.js
 
 
+var req = $request.url;
 
 function replaceQueryString (str) {
 
@@ -11,7 +12,7 @@ function replaceQueryString (str) {
     return str.replace(re1,'').replace(re2,'').replace(re3,'mobile')
 }
 
-var req = $request.url;
-modifiedurl=replaceQueryString(req);
-console.log(modifiedurl);
-$done({url: modifiedurl});
+
+murl = replaceQueryString(req);
+console.log(murl);
+$done({url: murl});
