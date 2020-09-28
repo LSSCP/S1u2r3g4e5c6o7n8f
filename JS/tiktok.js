@@ -1,5 +1,5 @@
 //rewrite"
-//https?:\/\/.+\.(tiktokv|byteoversea|ipstatp|tiktokcdn|ibytedtos|sgsnssdk)\.com\/.+ url script-request-header https://raw.gith
+//https?:\/\/.+\.(tiktokv|byteoversea|ipstatp|tiktokcdn|ibytedtos|sgsnssdk)\.com\/.+ url script-request-header https://raw.githubusercontent.com/LSSCP/S1u2r3g4e5c6o7n8f/master/JS/tiktok.js
 
 
 
