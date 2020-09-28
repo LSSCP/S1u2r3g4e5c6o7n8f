@@ -4,11 +4,11 @@
 
 
 function replaceQueryString (str) {
+
     const re1 = new RegExp('(?<=&mcc_mnc=)46002','gi')
-    const re2 = new RegExp('(?<=&sim_region=)CN','gi')
+    const re2 = new RegExp('(?<=&(sim|carrier)_region=)CN','gi')
     const re3 = new RegExp('(?<=&(access|ac)=)4g', 'gi')
-    const re4 = new RegExp('(?<=carrier_region=)CN','gi')
-    return str.replace(re1,'').replace(re2,'').replace(re3,'mobile').replace(re4,'')
+    return str.replace(re1,'').replace(re2,'').replace(re3,'mobile')
 }
 
 var req = $request.url;
