@@ -12,6 +12,6 @@ function replaceQueryString (str) {
 }
 
 var req = $request.url;
-modifiedurl=replaceQueryString(req)
-
+modifiedurl=replaceQueryString(req);
+console.log(modifiedurl);
 $done({url: modifiedurl});
