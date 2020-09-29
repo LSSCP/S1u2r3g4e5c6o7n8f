@@ -14,5 +14,6 @@ function replaceQueryString (str) {
 
 
 murl = replaceQueryString(req);
+console.log(req)
 console.log(murl);
 $done({url: murl});
