@@ -1,8 +1,5 @@
 # > skr
 PROCESS-NAME,Spark
-DOMAIN-KEYWORD,smtp
-DOMAIN-KEYWORD,imap
-DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,linguee.com
 DOMAIN-SUFFIX,docker.com
