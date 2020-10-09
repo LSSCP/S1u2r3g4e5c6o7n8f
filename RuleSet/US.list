@@ -43,5 +43,6 @@ DOMAIN,domains.google
 DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,cloudproxy.app
+DOMAIN-SUFFIX,appspot.com
 # > News
 PROCESS-NAME,News
