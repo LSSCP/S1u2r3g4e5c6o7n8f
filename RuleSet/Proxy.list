@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN,store.office.com
 DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 # > NASA
 DOMAIN-SUFFIX,nasa.gov
 # > PIXIV
