@@ -6,3 +6,7 @@ DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN,d3e5zkjv0mw5t1.cloudfront.net
 DOMAIN,e17437.dscb.akamaiedge.net
+IP-CIDR,172.217.27.0/24,no-resolve
+IP-CIDR,172.217.0.0/16,no-resolve
+IP-CIDR,64.233.187.0/24,no-resolve
+IP-CIDR,64.233.160.0/19,no-resolve
