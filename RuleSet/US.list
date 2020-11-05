@@ -44,5 +44,6 @@ DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,cloudproxy.app
 DOMAIN-SUFFIX,appspot.com
+IPCIDR,130.211.0.0/16,no-resolve
 # > News
 PROCESS-NAME,News
