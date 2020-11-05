@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,abcotvs.com
 DOMAIN,abcnews.go.com
 DOMAIN-SUFFIX,seabcnews.go.com
 DOMAIN,abcnewsvod-f.akamaihd.net
-IP-CIDR,99.84.232.0/21,no-resolve
 # > Google Service
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
