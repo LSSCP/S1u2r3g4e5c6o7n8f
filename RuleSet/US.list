@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,bloomberglp.com
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,bbhub.io
 DOMAIN-SUFFIX,bloom.bg
-# > CNBC
+# > US-TV
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN,bbgvod-azure-us-east1-zenko.global.ssl.fastly.net
 DOMAIN-SUFFIX,nbcuni.com
@@ -17,6 +17,11 @@ DOMAIN,tkx-prod-nbcd.anvato.net
 DOMAIN,dcs-live2.apis.anvato.net
 DOMAIN,tvecnbc-x.akamaized.net
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN,abc.news.client.dtci.technology
+DOMAIN-SUFFIX,watchabc.go.com
+DOMAIN,content-zapsea-up-1.southeastasia.cloudapp.azure.com
+DOMAIN,prod.gatekeeper.us-abc.symphony.edgedatg.go.com
+DOMAIN-SUFFIX,newrelic.com
 # > Google Service
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
