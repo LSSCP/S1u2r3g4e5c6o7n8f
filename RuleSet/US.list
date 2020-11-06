@@ -65,3 +65,6 @@ IP-CIDR,130.211.0.0/16,no-resolve
 DOMAIN,ocsp.pki.goog
 # > News
 PROCESS-NAME,News
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,washpost.nile.works
+DOMAIN-SUFFIX,nytimes.com
