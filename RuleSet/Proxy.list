@@ -185,3 +185,5 @@ DOMAIN,homebrew.bintray.com
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
 DOMAIN-SUFFIX,ludwig.guru
 DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,mitmproxy.org
+
