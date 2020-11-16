@@ -47,4 +47,5 @@ DOMAIN,p16-va-default.akamaized.net
 DOMAIN,p16-sg-default.akamaized.net
 DOMAIN-SUFFIX,sgsnssdk.com
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,amazon.co.jp
 IP-CIDR,125.209.220.0/22,no-resolve
