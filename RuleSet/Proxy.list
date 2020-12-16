@@ -167,4 +167,5 @@ DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,mitmproxy.org
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,bandwagonhost.com
-
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,officeci-mauservice.azurewebsites.net
