@@ -70,5 +70,6 @@ DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,washpost.nile.works
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nyt.com
-
+# > Misc
+DOMAIN-SUFFIX,maying.club
 
