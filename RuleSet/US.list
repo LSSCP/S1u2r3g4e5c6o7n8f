@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,bloomberglp.com
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,bbhub.io
 DOMAIN-SUFFIX,bloom.bg
+DOMAIN,liveprodusphoenixwest.akamaized.net
+DOMAIN,liveproduseast.akamaized.net
 # > US-TV
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN,bbgvod-azure-us-east1-zenko.global.ssl.fastly.net
@@ -72,4 +74,4 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nyt.com
 # > Misc
 DOMAIN-SUFFIX,maying.club
-
+IP-CIDR,104.24.110.237/32,no-resolve
