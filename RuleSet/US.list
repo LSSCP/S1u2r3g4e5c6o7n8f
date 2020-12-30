@@ -74,3 +74,4 @@ DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nyt.com
 # > Misc
 DOMAIN,emby.maying.club
+IP-CIDR,104.24.110.237/32
