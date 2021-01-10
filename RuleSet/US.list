@@ -73,7 +73,12 @@ DOMAIN-SUFFIX,washpost.nile.works
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nyt.com
 # > Misc
-DOMAIN,emby.maying.club
 IP-CIDR,104.24.110.237/32
 IP-CIDR,104.24.111.237/32
 IP-CIDR,172.67.163.166/32
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,firehol.org
+DOMAIN-SUFFIX,golang.org
