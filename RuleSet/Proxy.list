@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,ngtv.io
 # > MEGA NZ & DROP BOX
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
-IP-CIDR,108.160.160.0/20
 # > DISCORD &twitch
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.media
