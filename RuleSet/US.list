@@ -36,6 +36,22 @@ DOMAIN-SUFFIX,abcotvs.com
 DOMAIN,abcnews.go.com
 DOMAIN-SUFFIX,seabcnews.go.com
 DOMAIN,abcnewsvod-f.akamaihd.net
+# >Desney+
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,disneyjunior.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,go.com
+# > HULU
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+# > HBO
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbo.com
 # > Google Service
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
