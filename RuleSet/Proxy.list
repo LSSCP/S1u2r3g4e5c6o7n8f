@@ -88,9 +88,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-KEYWORD,twitter
-IP-CIDR,199.16.156.0/23,no-resolve
-IP-CIDR,199.16.156.0/22,no-resolve
-IP-CIDR,199.59.148.0/22,no-resolve
 # > Wiki
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikipedia.org
