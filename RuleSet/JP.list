@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,yahooapis.jp
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,smilevideo.jp
 DOMAIN-SUFFIX,fc2.com
@@ -78,3 +77,6 @@ DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,indazn.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,sentry.io
+#TVer
+DOMAIN-SUFFIX,tver.jp
+
