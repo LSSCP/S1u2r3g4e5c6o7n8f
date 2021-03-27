@@ -2,7 +2,7 @@
 #!desc=Termius Pro Unlock.
 
 [URL Rewrite]
-^https?:\/\/api\.termius\.com\/api\/v4\/setting\/mobile\/ - reject
+^https?:\/\/api\.termius\.com\/api\/v3\/setting\/mobile\/ - reject
 
 [Script]
 http-response https:\/\/api\.termius\.com\/api\/v4\/bulk\/account\/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/LSSCP/S1u2r3g4e5c6o7n8f/master/JS/Termius.js
