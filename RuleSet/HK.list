@@ -10,5 +10,4 @@ DOMAIN,bcbolt446c5271-a.akamaihd.net
 # > viu
 DOMAIN-SUFFIX,viu.com
 
-# > live-tv
-IP-CIDR,185.207.176.189/32
+
