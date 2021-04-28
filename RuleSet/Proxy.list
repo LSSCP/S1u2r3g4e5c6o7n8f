@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 # > DISCORD &twitch
 DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
