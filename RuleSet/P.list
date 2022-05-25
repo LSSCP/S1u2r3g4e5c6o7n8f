@@ -1,8 +1,0 @@
-# > skr
-PROCESS-NAME,Spark
-DOMAIN-SUFFIX,linguee.com
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,apple.co
-
-# > hk-live-tv
-IP-CIDR,185.207.176.189/32
